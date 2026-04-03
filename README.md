@@ -1,17 +1,11 @@
 # 🌷 Hi there, I'm Kavindi Bandara 👩‍💻  
-
-🎓 Computer Engineering Undergraduate | University of Ruhuna  
-💡 Passionate about Software Engineering, AI & Intelligent Systems  
-🚀 Building smart, real-world applications  
-
 ---
 
-## ✨ About Me  
+## ✨ About Me 
 
-🌸 Third-year Computer Engineering student  
-💭 Interested in AI, Full-Stack Development & Smart Systems  
-🤝 Strong teamwork, adaptability & problem-solving skills  
-🚀 Love turning ideas into real-world solutions  
+🎓 Computer Engineering Undergraduate | University of Ruhuna  
+💡 Passionate about Software Engineering, AI & Machine Learning  
+🚀 Love turning ideas into real-world solutions   
 
 ---
 
@@ -19,11 +13,11 @@
 
 ### 🚀 Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -37,16 +31,16 @@
 
 ---
 
-### 📱 Mobile Development  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
-
----
-
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+---
+
+### 📱 Mobile Development  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 
 ---
 
@@ -67,6 +61,23 @@
 ---
 
 ## 🚀 Featured Projects  
+
+### 💄 PinkAura – AI Beauty Analysis  
+🔹 AI-powered skin tone detection  
+🔹 Virtual try-on system  
+🛠️ Python • OpenCV • MediaPipe • React  
+
+---
+
+### 🏥 AI-Driven Virtual Assistant for Medical Centers *(Ongoing)*  
+🔹 Developing an intelligent virtual assistant to automate patient inquiries and enhance digital healthcare services  
+🔹 Built using **Retrieval-Augmented Generation (RAG)** for accurate and context-aware responses  
+🔹 Integrated **Pinecone vector database** for efficient semantic search and knowledge retrieval  
+🔹 Backend APIs developed with scalable architecture and workflow automation  
+🔹 Includes **voice interaction modules** and DevOps integration  
+🛠️ Node.js • Express.js • NestJS • TypeScript • Pinecone • n8n • Supabase • Git • Jira • Confluence  
+
+---
 
 ### 🍏 Freshero – Food Expiry Tracking System  
 🔹 Track food items & reduce waste using smart indicators  
@@ -96,25 +107,10 @@
 
 ---
 
-### 💄 PinkAura – AI Beauty Analysis  
-🔹 AI-powered skin tone detection  
-🔹 Virtual try-on system  
-🛠️ Python • OpenCV • MediaPipe • React  
-
----
-
 ### 🤖 Smart Baby-Following Robot  
 🔹 Real-time tracking robot using computer vision  
 🔹 Live monitoring system  
 🛠️ Raspberry Pi • OpenCV • Embedded Systems  
-
----
-
-## 📊 GitHub Stats  
-
-![Kavindi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavindi-Bandara&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindi-Bandara&layout=compact&theme=tokyonight)
 
 ---
 
@@ -143,10 +139,5 @@
 
 ---
 
-## 🌟 Motto  
-
-✨ *"Learn continuously, build passionately, and grow through challenges."*  
-
----
 
 ⭐ Thanks for visiting my profile! Let's build something amazing together 🚀
