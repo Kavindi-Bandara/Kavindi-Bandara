@@ -1,4 +1,4 @@
-# 🌷 Hi there, I'm Kavindi Bandara 👩‍💻  
+# 👋 Hi, I'm Kavindi Bandara 👩‍💻  
 ---
 
 ## ✨ About Me 
